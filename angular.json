@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CovidUserMap"
+    }
+  },
+  "defaultProject": "CovidUserMap",
+  "cli": {
+    "analytics": "467cda1b-5757-46c2-9499-2267c30f079d"
+  }
 }
